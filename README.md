@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/vietle2201/human-system-optimization)
+==========
 UPDATES: 
 
 补充一篇 24 年初的文章，分享最近一年的一些个人实践：[养生博主的 23 年总结](https://zhuanlan.zhihu.com/p/675470252)。
